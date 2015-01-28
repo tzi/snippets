@@ -1,4 +1,4 @@
-tzi's cnippets
+tzi's snippets
 ==============
 
 
